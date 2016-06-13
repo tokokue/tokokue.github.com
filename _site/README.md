@@ -1,4 +1,4 @@
-GordysBakery
+Toko Kue IMAI
 ============
 
-The Gordy's Bakery Static Website
+Toko Kue IMAI
